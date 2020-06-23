@@ -1,0 +1,23 @@
+{
+  "name": "natour",
+  "version": "1.0.0",
+  "description": "landing page for natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edelamaza/natour.git"
+  },
+  "author": "esteban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edelamaza/natour/issues"
+  },
+  "homepage": "https://github.com/edelamaza/natour#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {}
+}
